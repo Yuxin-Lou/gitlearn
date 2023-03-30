@@ -1,5 +1,10 @@
 first
 hello
 fuck you jin
+<<<<<<< HEAD
 
 lyx modifiy
+=======
+no no
+ok ok
+>>>>>>> feb0fa6 (add ok)
